@@ -88,6 +88,7 @@ export default {
   },
 
   mounted:function(){
+    console.log(1);
     console.log(Vue.util,'1111');
     var obj1={a:1}
     var obj2={b:2}
