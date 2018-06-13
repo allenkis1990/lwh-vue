@@ -12,7 +12,8 @@
 </template>
 
 <script>
-export default {
+  console.log(2);
+  export default {
 
 }
 </script>
