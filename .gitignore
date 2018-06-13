@@ -1,3 +1,3 @@
-node_modules
-lwh-vue/.idea
-.idea/lwh-vue.iml
+lwh-vue/node_modules/
+lwh-vue/dist/
+lwh-vue/.idea/
